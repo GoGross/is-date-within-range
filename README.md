@@ -1,5 +1,6 @@
 # is-date-within-range
-Check if a date is within a period of a two given date, returns `true` or `false`
+Check if a date is within a period of a two given dates, 
+should return `true` or `false`
 
 #### NPM
 ```
