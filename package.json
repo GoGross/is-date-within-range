@@ -1,0 +1,20 @@
+{
+  "name": "is-date-within-range",
+  "version": "1.0.1",
+  "description": "Check if a given date is within a period of a given date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoGross/is-date-within-range.git"
+  },
+  "keywords": [],
+  "author": "Zeal Murapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoGross/is-date-within-range/issues"
+  },
+  "homepage": "https://github.com/GoGross/is-date-within-range#readme"
+}
