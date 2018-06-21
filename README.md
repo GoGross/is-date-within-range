@@ -3,7 +3,7 @@ Check if a date is within a period of a two given date, returns `true` or `false
 
 #### NPM
 ```
-  $ npm install js-cookie --save
+  $ npm install is-date-within-range --save
 ```
 
 Read cookie:
